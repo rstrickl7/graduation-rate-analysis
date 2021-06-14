@@ -1,0 +1,208 @@
+year,leaid,lea_name,state_name,city_location,agency_type,enrollment,cohort_num,grad_rate_high,grad_rate_low,grad_rate_midpt
+2015,900001,UNIFIED SCHOOL DISTRICT #3,Connecticut,HARTFORD,State-operated agency,,,,,
+2015,900002,Connecticut Technical High Sc,Connecticut,MIDDLETOWN,State-operated agency,10710,2471,97,97,97
+2015,900003,UNIFIED SCHOOL DISTRICT #1,Connecticut,WETHERSFIELD,State-operated agency,390,341,2,2,2
+2015,900004,UNIFIED SCHOOL DISTRICT #2,Connecticut,HARTFORD,State-operated agency,151,49,29,20,24
+2015,900005,REGIONAL SCHOOL DISTRICT 19,Connecticut,STORRS,Regular local school district,1206,288,92,92,92
+2015,900007,JUMOKE ACADEMY DISTRICT,Connecticut,HARTFORD,Charter agency,734,7,100,50,75
+2015,900009,ODYSSEY COMMUNITY SCHOOL DIST,Connecticut,MANCHESTER,Charter agency,328,,,,
+2015,900010,INTEGRATED DAY CHARTER SCHOOL,Connecticut,NORWICH,Charter agency,331,,,,
+2015,900011,INTRDIST SCH FOR ARTS AND COM,Connecticut,NEW LONDON,Charter agency,271,,,,
+2015,900014,COMMON GROUND HIGH SCHOOL DIS,Connecticut,NEW HAVEN,Charter agency,186,34,100,90,95
+2015,900015,THE BRIDGE ACADEMY DISTRICT,Connecticut,Bridgeport,Charter agency,279,34,79,70,74
+2015,900016,SIDE BY SIDE COMMUNITY SCHOOL,Connecticut,SOUTH NORWALK,Charter agency,236,,,,
+2015,900018,EXPLORATIONS DISTRICT,Connecticut,WINSTED,Charter agency,92,27,79,60,69
+2015,900023,TRAILBLAZERS ACADEMY DISTRICT,Connecticut,STAMFORD,Charter agency,125,,,,
+2015,900024,AMISTAD ACADEMY DISTRICT,Connecticut,NEW HAVEN,Charter agency,1036,30,100,80,90
+2015,900025,UNIVERSITY OF CONNECTICUT,Connecticut,Storrs,State-operated agency,,,,,
+2015,900026,DEPARTMENT OF SOCIAL SERVICES,Connecticut,HARTFORD,State-operated agency,,,,,
+2015,900027,DEPARTMENT OF MENTAL HEALTH A,Connecticut,Hartford,State-operated agency,3,5,Suppressed data,Suppressed data,Suppressed data
+2015,900028,NEW BEGINNINGS INC.,Connecticut,Bridgeport,Charter agency,499,,,,
+2015,900030,ANDOVER SCHOOL DISTRICT,Connecticut,ANDOVER,Regular local school district,250,,,,
+2015,900031,Stamford Academy,Connecticut,Stamford,Charter agency,150,53,29,20,24
+2015,900033,Park City Prep Charter School,Connecticut,Bridgeport,Charter agency,360,,,,
+2015,900060,ANSONIA SCHOOL DISTRICT,Connecticut,ANSONIA,Regular local school district,2361,138,84,80,82
+2015,900070,AREA COOPERATIVE EDUCATIONAL,Connecticut,NORTH HAVEN,Regional education service agency,1948,,,,
+2015,900090,ASHFORD SCHOOL DISTRICT,Connecticut,Ashford,Regular local school district,397,,,,
+2015,900120,AVON SCHOOL DISTRICT,Connecticut,AVON,Regular local school district,3274,240,97,97,97
+2015,900150,BARKHAMSTED SCHOOL DISTRICT,Connecticut,BARKHAMSTED,Regular local school district,286,,,,
+2015,900207,Highville Mustard Seed Charte,Connecticut,Hamden,Charter agency,462,,,,
+2015,900208,Bridgeport Achievement First,Connecticut,Bridgeport,Charter agency,1016,30,100,80,90
+2015,900210,BERLIN SCHOOL DISTRICT,Connecticut,BERLIN,Regular local school district,2863,249,95,95,95
+2015,900212,Achievement First Hartford Ac,Connecticut,Hartford,Charter agency,1063,35,89,80,84
+2015,900213,Charter School for Young Chil,Connecticut,Hartford,Charter agency,,,,,
+2015,900214,Elm City College Preparatory,Connecticut,New Haven,Charter agency,703,17,100,80,90
+2015,900215,Brass City Charter School Dis,Connecticut,Waterbury,Charter agency,186,,,,
+2015,900216,Elm City Montessori School Di,Connecticut,New Haven,Charter agency,113,,,,
+2015,900217,Booker T Washington Academy D,Connecticut,New Haven,Charter agency,180,,,,
+2015,900218,Path Academy District,Connecticut,Willimantic,Charter agency,143,38,10,0,5
+2015,900219,Great Oaks Charter School Bri,Connecticut,Bridgeport,Charter agency,226,,,,
+2015,900220,Stamford Charter School for E,Connecticut,Stamford,Charter agency,164,,,,
+2015,900221,Capital Preparatory Harbor Sc,Connecticut,Bridgeport,Charter agency,249,8,49,0,24
+2015,900240,BETHANY SCHOOL DISTRICT,Connecticut,BETHANY,Regular local school district,383,,,,
+2015,900270,BETHEL SCHOOL DISTRICT,Connecticut,Bethel,Regular local school district,2962,251,94,94,94
+2015,900330,BLOOMFIELD SCHOOL DISTRICT,Connecticut,BLOOMFIELD,Regular local school district,2068,156,94,90,92
+2015,900360,BOLTON SCHOOL DISTRICT,Connecticut,BOLTON,Regular local school district,814,85,94,90,92
+2015,900390,BOZRAH SCHOOL DISTRICT,Connecticut,Bozrah,Regular local school district,201,,,,
+2015,900420,BRANFORD SCHOOL DISTRICT,Connecticut,BRANFORD,Regular local school district,3045,256,94,94,94
+2015,900450,BRIDGEPORT SCHOOL DISTRICT,Connecticut,Bridgeport,Regular local school district,21015,1387,66,66,66
+2015,900510,BRISTOL SCHOOL DISTRICT,Connecticut,Bristol,Regular local school district,8086,659,83,83,83
+2015,900540,BROOKFIELD SCHOOL DISTRICT,Connecticut,BROOKFIELD,Regular local school district,2680,215,97,97,97
+2015,900570,BROOKLYN SCHOOL DISTRICT,Connecticut,BROOKLYN,Regular local school district,898,,,,
+2015,900630,CANAAN SCHOOL DISTRICT,Connecticut,FALLS VILLAGE,Regular local school district,76,,,,
+2015,900660,CANTERBURY SCHOOL DISTRICT,Connecticut,Canterbury,Regular local school district,491,,,,
+2015,900690,CANTON SCHOOL DISTRICT,Connecticut,Canton,Regular local school district,1626,106,100,95,97
+2015,900700,CAPITOL REGION EDUCATION COUN,Connecticut,HARTFORD,Regional education service agency,8354,425,92,92,92
+2015,900720,CHAPLIN SCHOOL DISTRICT,Connecticut,Chaplin,Regular local school district,176,,,,
+2015,900750,CHESHIRE SCHOOL DISTRICT,Connecticut,CHESHIRE,Regular local school district,4395,387,96,96,96
+2015,900780,CHESTER SCHOOL DISTRICT,Connecticut,Deep River,Regular local school district,211,,,,
+2015,900810,CLINTON SCHOOL DISTRICT,Connecticut,CLINTON,Regular local school district,1819,140,89,85,87
+2015,900840,COLCHESTER SCHOOL DISTRICT,Connecticut,Colchester,Regular local school district,2551,214,94,94,94
+2015,900870,COLEBROOK SCHOOL DISTRICT,Connecticut,Colebrook,Regular local school district,84,,,,
+2015,900900,COLUMBIA SCHOOL DISTRICT,Connecticut,Columbia,Regular local school district,445,,,,
+2015,900910,COOPERATIVE EDUCATIONAL SERVI,Connecticut,TRUMBULL,Regional education service agency,869,,,,
+2015,900930,CORNWALL SCHOOL DISTRICT,Connecticut,FALLS VILLAGE,Regular local school district,92,,,,
+2015,900960,COVENTRY SCHOOL DISTRICT,Connecticut,COVENTRY,Regular local school district,1625,130,94,90,92
+2015,900990,CROMWELL SCHOOL DISTRICT,Connecticut,CROMWELL,Regular local school district,1982,143,94,90,92
+2015,901020,DANBURY SCHOOL DISTRICT,Connecticut,DANBURY,Regular local school district,11137,766,77,77,77
+2015,901050,DARIEN SCHOOL DISTRICT,Connecticut,Darien,Regular local school district,4856,332,98,98,98
+2015,901080,DEEP RIVER SCHOOL DISTRICT,Connecticut,Deep River,Regular local school district,304,,,,
+2015,901110,DERBY SCHOOL DISTRICT,Connecticut,Derby,Regular local school district,1386,97,79,75,77
+2015,901170,EAST GRANBY SCHOOL DISTRICT,Connecticut,East Granby,Regular local school district,868,72,100,95,97
+2015,901200,EAST HADDAM SCHOOL DISTRICT,Connecticut,Moodus,Regular local school district,1061,80,100,95,97
+2015,901230,EAST HAMPTON SCHOOL DISTRICT,Connecticut,EAST HAMPTON,Regular local school district,1888,151,100,95,97
+2015,901260,EAST HARTFORD SCHOOL DISTRICT,Connecticut,EAST HARTFORD,Regular local school district,6866,543,89,89,89
+2015,901290,EAST HAVEN SCHOOL DISTRICT,Connecticut,EAST HAVEN,Regular local school district,2970,240,74,74,74
+2015,901320,EAST LYME SCHOOL DISTRICT,Connecticut,East Lyme,Regular local school district,2789,259,93,93,93
+2015,901350,EAST WINDSOR SCHOOL DISTRICT,Connecticut,EAST WINDSOR,Regular local school district,1096,78,89,85,87
+2015,901360,EASTERN CONNECTICUT REGIONAL,Connecticut,HAMPTON,Regional education service agency,425,73,84,80,82
+2015,901380,EASTFORD SCHOOL DISTRICT,Connecticut,Eastford,Regular local school district,134,,,,
+2015,901410,EASTON SCHOOL DISTRICT,Connecticut,MONROE,Regular local school district,921,,,,
+2015,901440,ELLINGTON SCHOOL DISTRICT,Connecticut,Ellington,Regular local school district,2630,187,100,95,97
+2015,901470,ENFIELD SCHOOL DISTRICT,Connecticut,ENFIELD,Regular local school district,5169,447,85,85,85
+2015,901500,ESSEX SCHOOL DISTRICT,Connecticut,Deep River,Regular local school district,417,,,,
+2015,901530,FAIRFIELD SCHOOL DISTRICT,Connecticut,Fairfield,Regular local school district,10054,760,95,95,95
+2015,901560,FARMINGTON SCHOOL DISTRICT,Connecticut,FARMINGTON,Regular local school district,4069,338,96,96,96
+2015,901590,FRANKLIN SCHOOL DISTRICT,Connecticut,NORTH FRANKLIN,Regular local school district,167,,,,
+2015,901620,GLASTONBURY SCHOOL DISTRICT,Connecticut,GLASTONBURY,Regular local school district,6050,537,97,97,97
+2015,901680,GRANBY SCHOOL DISTRICT,Connecticut,GRANBY,Regular local school district,1946,194,100,95,97
+2015,901710,GREENWICH SCHOOL DISTRICT,Connecticut,GREENWICH,Regular local school district,8808,634,94,94,94
+2015,901740,GRISWOLD SCHOOL DISTRICT,Connecticut,Griswold,Regular local school district,1881,150,89,85,87
+2015,901770,GROTON SCHOOL DISTRICT,Connecticut,MYSTIC,Regular local school district,4487,266,86,86,86
+2015,901800,GUILFORD SCHOOL DISTRICT,Connecticut,Guilford,Regular local school district,3393,251,93,93,93
+2015,901860,HAMDEN SCHOOL DISTRICT,Connecticut,HAMDEN,Regular local school district,5490,465,88,88,88
+2015,901890,HAMPTON SCHOOL DISTRICT,Connecticut,Chaplin,Regular local school district,101,,,,
+2015,901920,HARTFORD SCHOOL DISTRICT,Connecticut,HARTFORD,Regular local school district,20874,1515,71,71,71
+2015,901950,HARTLAND SCHOOL DISTRICT,Connecticut,East Hartland,Regular local school district,187,,,,
+2015,902010,HEBRON SCHOOL DISTRICT,Connecticut,HEBRON,Regular local school district,730,,,,
+2015,902040,KENT SCHOOL DISTRICT,Connecticut,FALLS VILLAGE,Regular local school district,237,,,,
+2015,902070,KILLINGLY SCHOOL DISTRICT,Connecticut,Danielson,Regular local school district,2520,210,80,80,80
+2015,902130,LEBANON SCHOOL DISTRICT,Connecticut,Lebanon,Regular local school district,1045,102,100,95,97
+2015,902160,LEDYARD SCHOOL DISTRICT,Connecticut,LEDYARD,Regular local school district,2418,232,91,91,91
+2015,902190,LISBON SCHOOL DISTRICT,Connecticut,LISBON,Regular local school district,388,,,,
+2015,902220,LITCHFIELD SCHOOL DISTRICT,Connecticut,Litchfield,Regular local school district,961,85,100,95,97
+2015,902280,MADISON SCHOOL DISTRICT,Connecticut,Madison,Regular local school district,3014,302,98,98,98
+2015,902310,MANCHESTER SCHOOL DISTRICT,Connecticut,MANCHESTER,Regular local school district,6208,407,83,83,83
+2015,902340,MANSFIELD SCHOOL DISTRICT,Connecticut,STORRS,Regular local school district,1247,,,,
+2015,902370,MARLBOROUGH SCHOOL DISTRICT,Connecticut,MARLBOROUGH,Regular local school district,556,,,,
+2015,902400,MERIDEN SCHOOL DISTRICT,Connecticut,Meriden,Regular local school district,7927,611,70,70,70
+2015,902490,MIDDLETOWN SCHOOL DISTRICT,Connecticut,MIDDLETOWN,Regular local school district,4627,334,87,87,87
+2015,902520,MILFORD SCHOOL DISTRICT,Connecticut,MILFORD,Regular local school district,6123,482,92,92,92
+2015,902550,MONROE SCHOOL DISTRICT,Connecticut,MONROE,Regular local school district,3167,290,100,99,99
+2015,902580,MONTVILLE SCHOOL DISTRICT,Connecticut,OAKDALE,Regular local school district,2245,180,94,90,92
+2015,902640,NAUGATUCK SCHOOL DISTRICT,Connecticut,NAUGATUCK,Regular local school district,4235,310,85,85,85
+2015,902670,NEW BRITAIN SCHOOL DISTRICT,Connecticut,NEW BRITAIN,Regular local school district,9982,645,70,70,70
+2015,902700,NEW CANAAN SCHOOL DISTRICT,Connecticut,NEW CANAAN,Regular local school district,4210,280,98,98,98
+2015,902730,NEW FAIRFIELD SCHOOL DISTRICT,Connecticut,NEW FAIRFIELD,Regular local school district,2490,243,98,98,98
+2015,902760,NEW HARTFORD SCHOOL DISTRICT,Connecticut,New Hartford,Regular local school district,470,,,,
+2015,902790,NEW HAVEN SCHOOL DISTRICT,Connecticut,NEW HAVEN,Regular local school district,21631,1447,78,78,78
+2015,902820,NEW LONDON SCHOOL DISTRICT,Connecticut,NEW LONDON,Regular local school district,3322,243,74,74,74
+2015,902850,NEW MILFORD SCHOOL DISTRICT,Connecticut,NEW MILFORD,Regular local school district,4227,342,92,92,92
+2015,902880,NEWINGTON SCHOOL DISTRICT,Connecticut,NEWINGTON,Regular local school district,4042,310,93,93,93
+2015,902910,NEWTOWN SCHOOL DISTRICT,Connecticut,NEWTOWN,Regular local school district,4564,424,96,96,96
+2015,902940,NORFOLK SCHOOL DISTRICT,Connecticut,Norfolk,Regular local school district,116,,,,
+2015,902970,NORTH BRANFORD SCHOOL DISTRIC,Connecticut,Northford,Regular local school district,1881,144,94,90,92
+2015,903000,NORTH CANAAN SCHOOL DISTRICT,Connecticut,FALLS VILLAGE,Regular local school district,260,,,,
+2015,903030,NORTH HAVEN SCHOOL DISTRICT,Connecticut,NORTH HAVEN,Regular local school district,3160,266,94,94,94
+2015,903060,NORTH STONINGTON SCHOOL DISTR,Connecticut,NORTH STONINGTON,Regular local school district,729,49,89,80,84
+2015,903090,NORWALK SCHOOL DISTRICT,Connecticut,Norwalk,Regular local school district,11306,813,90,90,90
+2015,903120,NORWICH SCHOOL DISTRICT,Connecticut,NORWICH,Regular local school district,3598,,,,
+2015,903180,OLD SAYBROOK SCHOOL DISTRICT,Connecticut,OLD SAYBROOK,Regular local school district,1337,135,94,90,92
+2015,903210,ORANGE SCHOOL DISTRICT,Connecticut,ORANGE,Regular local school district,1176,,,,
+2015,903240,OXFORD SCHOOL DISTRICT,Connecticut,OXFORD,Regular local school district,1959,143,94,90,92
+2015,903270,PLAINFIELD SCHOOL DISTRICT,Connecticut,Plainfield,Regular local school district,2311,197,84,80,82
+2015,903300,PLAINVILLE SCHOOL DISTRICT,Connecticut,PLAINVILLE,Regular local school district,2390,201,91,91,91
+2015,903330,PLYMOUTH SCHOOL DISTRICT,Connecticut,TERRYVILLE,Regular local school district,1509,106,89,85,87
+2015,903360,POMFRET SCHOOL DISTRICT,Connecticut,POMFRET CENTER,Regular local school district,400,,,,
+2015,903390,PORTLAND SCHOOL DISTRICT,Connecticut,Portland,Regular local school district,1352,89,100,95,97
+2015,903420,PRESTON SCHOOL DISTRICT,Connecticut,PRESTON,Regular local school district,438,,,,
+2015,903450,LEARN,Connecticut,Old Lyme,Regional education service agency,2373,193,94,90,92
+2015,903480,PUTNAM SCHOOL DISTRICT,Connecticut,PUTNAM,Regular local school district,1179,72,94,90,92
+2015,903510,REDDING SCHOOL DISTRICT,Connecticut,MONROE,Regular local school district,953,,,,
+2015,903512,EDUCATION CONNECTION,Connecticut,Danbury,Regional education service agency,227,,,,
+2015,903515,REGIONAL SCHOOL DISTRICT 06,Connecticut,LITCHFIELD,Regular local school district,983,102,100,95,97
+2015,903520,REGIONAL SCHOOL DISTRICT 10,Connecticut,BURLINGTON,Regular local school district,2405,196,100,95,97
+2015,903530,REGIONAL SCHOOL DISTRICT 12,Connecticut,Washington Depot,Regular local school district,728,78,100,95,97
+2015,903535,REGIONAL SCHOOL DISTRICT 13,Connecticut,DURHAM,Regular local school district,1743,149,94,90,92
+2015,903536,REGIONAL SCHOOL DISTRICT 14,Connecticut,Woodbury,Regular local school district,1762,185,100,95,97
+2015,903537,REGIONAL SCHOOL DISTRICT 15,Connecticut,Middlebury,Regular local school district,3766,289,94,94,94
+2015,903538,REGIONAL SCHOOL DISTRICT 16,Connecticut,PROSPECT,Regular local school district,2259,186,94,90,92
+2015,903539,REGIONAL SCHOOL DISTRICT 17,Connecticut,Higganum,Regular local school district,2118,149,100,95,97
+2015,903540,REGIONAL SCHOOL DISTRICT 18,Connecticut,Old Lyme,Regular local school district,1331,103,100,95,97
+2015,903570,REGIONAL SCHOOL DISTRICT 11,Connecticut,Chaplin,Regular local school district,245,33,79,70,74
+2015,903600,REGIONAL SCHOOL DISTRICT 01,Connecticut,FALLS VILLAGE,Regular local school district,440,100,100,95,97
+2015,903630,REGIONAL SCHOOL DISTRICT 04,Connecticut,Deep River,Regular local school district,920,150,100,95,97
+2015,903660,REGIONAL SCHOOL DISTRICT 05,Connecticut,WOODBRIDGE,Regular local school district,2244,397,95,95,95
+2015,903720,REGIONAL SCHOOL DISTRICT 07,Connecticut,WINSTED,Regular local school district,1085,191,94,90,92
+2015,903750,REGIONAL SCHOOL DISTRICT 08,Connecticut,HEBRON,Regular local school district,1590,261,92,92,92
+2015,903780,REGIONAL SCHOOL DISTRICT 09,Connecticut,MONROE,Regular local school district,1008,254,96,96,96
+2015,903810,RIDGEFIELD SCHOOL DISTRICT,Connecticut,Ridgefield,Regular local school district,5036,430,97,97,97
+2015,903840,ROCKY HILL SCHOOL DISTRICT,Connecticut,ROCKY HILL,Regular local school district,2603,183,94,90,92
+2015,903900,SALEM SCHOOL DISTRICT,Connecticut,SALEM,Regular local school district,376,,,,
+2015,903930,SALISBURY SCHOOL DISTRICT,Connecticut,FALLS VILLAGE,Regular local school district,274,,,,
+2015,903960,SCOTLAND SCHOOL DISTRICT,Connecticut,Chaplin,Regular local school district,119,,,,
+2015,903990,SEYMOUR SCHOOL DISTRICT,Connecticut,Seymour,Regular local school district,2204,166,100,95,97
+2015,904020,SHARON SCHOOL DISTRICT,Connecticut,FALLS VILLAGE,Regular local school district,160,,,,
+2015,904050,SHELTON SCHOOL DISTRICT,Connecticut,Shelton,Regular local school district,4906,416,92,92,92
+2015,904080,SHERMAN SCHOOL DISTRICT,Connecticut,SHERMAN,Regular local school district,333,,,,
+2015,904110,SIMSBURY SCHOOL DISTRICT,Connecticut,SIMSBURY,Regular local school district,4159,366,95,95,95
+2015,904140,SOMERS SCHOOL DISTRICT,Connecticut,SOMERS,Regular local school district,1429,125,94,90,92
+2015,904170,SOUTH WINDSOR SCHOOL DISTRICT,Connecticut,SOUTH WINDSOR,Regular local school district,4128,325,94,94,94
+2015,904230,SOUTHINGTON SCHOOL DISTRICT,Connecticut,SOUTHINGTON,Regular local school district,6549,498,94,94,94
+2015,904260,SPRAGUE SCHOOL DISTRICT,Connecticut,BALTIC,Regular local school district,360,,,,
+2015,904290,STAFFORD SCHOOL DISTRICT,Connecticut,Stafford Springs,Regular local school district,1534,114,94,90,92
+2015,904320,STAMFORD SCHOOL DISTRICT,Connecticut,Stamford,Regular local school district,15860,1191,89,89,89
+2015,904350,STERLING SCHOOL DISTRICT,Connecticut,Oneco,Regular local school district,447,,,,
+2015,904380,STONINGTON SCHOOL DISTRICT,Connecticut,OLD MYSTIC,Regular local school district,2151,194,94,90,92
+2015,904440,STRATFORD SCHOOL DISTRICT,Connecticut,STRATFORD,Regular local school district,6846,587,89,89,89
+2015,904470,SUFFIELD SCHOOL DISTRICT,Connecticut,SUFFIELD,Regular local school district,2353,210,94,94,94
+2015,904500,THOMASTON SCHOOL DISTRICT,Connecticut,Thomaston,Regular local school district,894,52,100,90,95
+2015,904530,THOMPSON SCHOOL DISTRICT,Connecticut,NORTH GROSVENORDALE,Regular local school district,995,74,100,95,97
+2015,904560,TOLLAND SCHOOL DISTRICT,Connecticut,TOLLAND,Regular local school district,2577,217,94,94,94
+2015,904590,TORRINGTON SCHOOL DISTRICT,Connecticut,TORRINGTON,Regular local school district,4156,289,82,82,82
+2015,904620,TRUMBULL SCHOOL DISTRICT,Connecticut,TRUMBULL,Regular local school district,6666,536,98,98,98
+2015,904650,UNION SCHOOL DISTRICT,Connecticut,UNION,Regular local school district,80,,,,
+2015,904680,VERNON SCHOOL DISTRICT,Connecticut,Vernon,Regular local school district,3179,208,76,76,76
+2015,904710,VOLUNTOWN SCHOOL DISTRICT,Connecticut,Voluntown,Regular local school district,296,,,,
+2015,904740,WALLINGFORD SCHOOL DISTRICT,Connecticut,WALLINGFORD,Regular local school district,5988,557,91,91,91
+2015,904830,WATERBURY SCHOOL DISTRICT,Connecticut,Waterbury,Regular local school district,18765,1282,73,73,73
+2015,904860,WATERFORD SCHOOL DISTRICT,Connecticut,WATERFORD,Regular local school district,2511,187,94,90,92
+2015,904890,WATERTOWN SCHOOL DISTRICT,Connecticut,WATERTOWN,Regular local school district,2811,227,96,96,96
+2015,904920,WEST HARTFORD SCHOOL DISTRICT,Connecticut,WEST HARTFORD,Regular local school district,9703,775,94,94,94
+2015,904950,WEST HAVEN SCHOOL DISTRICT,Connecticut,WEST HAVEN,Regular local school district,5755,465,77,77,77
+2015,904980,WESTBROOK SCHOOL DISTRICT,Connecticut,WESTBROOK,Regular local school district,775,63,94,90,92
+2015,905010,WESTON SCHOOL DISTRICT,Connecticut,WESTON,Regular local school district,2399,204,100,99,99
+2015,905040,WESTPORT SCHOOL DISTRICT,Connecticut,WESTPORT,Regular local school district,5692,480,98,98,98
+2015,905070,WETHERSFIELD SCHOOL DISTRICT,Connecticut,WETHERSFIELD,Regular local school district,3620,311,94,94,94
+2015,905100,WILLINGTON SCHOOL DISTRICT,Connecticut,Willington,Regular local school district,434,,,,
+2015,905130,WILTON SCHOOL DISTRICT,Connecticut,Wilton,Regular local school district,4140,342,97,97,97
+2015,905160,WINCHESTER SCHOOL DISTRICT,Connecticut,WINSTED,Regular local school district,557,,,,
+2015,905190,WINDHAM SCHOOL DISTRICT,Connecticut,WILLIMANTIC,Regular local school district,3267,150,79,75,77
+2015,905220,WINDSOR SCHOOL DISTRICT,Connecticut,WINDSOR,Regular local school district,3184,275,86,86,86
+2015,905250,WINDSOR LOCKS SCHOOL DISTRICT,Connecticut,WINDSOR LOCKS,Regular local school district,1630,144,89,85,87
+2015,905280,WOLCOTT SCHOOL DISTRICT,Connecticut,WOLCOTT,Regular local school district,2338,219,94,94,94
+2015,905310,WOODBRIDGE SCHOOL DISTRICT,Connecticut,WOODBRIDGE,Regular local school district,771,,,,
+2015,905370,WOODSTOCK SCHOOL DISTRICT,Connecticut,WOODSTOCK,Regular local school district,856,,,,
+2015,905371,NORWICH FREE ACADEMY,Connecticut,NORWICH,Regular local school district,2282,578,83,83,83
+2015,905372,THE GILBERT SCHOOL,Connecticut,WINSTED,Regular local school district,553,101,84,80,82
+2015,905373,WOODSTOCK ACADEMY,Connecticut,WOODSTOCK,Regular local school district,1022,244,98,98,98
