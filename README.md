@@ -64,6 +64,7 @@ This project uses binary classification to predict which highschools have a high
 ![Graph-1](Images/Graph-1.png)
 
 
+
 ## Conclusions
 Our modeling struggles with overfitting and is better at classifying the majority class (normal graduation rate). However, we were able to achieve a high enough performance that we feel confident in making recommendations based on the the features which had the greatest feature importance for our modeling.
 The number of students who completed math and reading tests and received a proficient grade were major indicators for higher graduation rates.
@@ -73,19 +74,25 @@ Teacher salaries was the most important financial factor. Higher teacher salarie
 
 
 ## Recommendations
-Mathematics and Reading: Focus resources  on providing extra support for mathematics and reading. School districts should investigate the best way to improve these scores whether it be through offering remedial opportunities additional tutoring or increasing testing practice for these specific areas.
-Suspensions: Although, these metrics are not easily separated from other influencing factors. We can broadly say that behavioral issues have a negative impact on academic success. Additionally, there is a large and accepted body of research in the education field that dealing with behavioral issues by keeping kids from coming to school is unproductive and has negative impacts on academic success. School districts and administrators should investigate more productive disciplinary recourse than suspensions and explore preventative measures that help students work through behavioral issues.
-ACT/SAT: As with many education metrics ACT/SAT participation likely also has a relationship with school funding and other types of factors. However, regardless of other factors ACT/SAT prep can be a motivating factor for students even at underfunded schools. With the view that the main goal for students in high school is to prepare themselves so they will be accepted into college
-Teacher Salaries:  Teacher salaries  is a the top financial feature for our modeling an is also more easily influenced by school districts than other financial factors such as local revenue. We recommend making teacher salaries the top priority in budgeting plans as this was a strong indicator for higher graduation rates.
-Wait until future work is completed to use a model as a primary classification technique
+Mathematics and Reading: 
+Focus resources  on providing extra support for mathematics and reading. School districts should investigate the best way to improve these scores whether it be through offering remedial opportunities additional tutoring or increasing testing practice for these specific areas.
 
+ACT/SAT: 
+As with many education metrics ACT/SAT participation likely also has a relationship with school funding and other types of factors. However, regardless of other factors ACT/SAT prep can be a motivating factor for students even at underfunded schools. With the view that the main goal for students in high school is to prepare themselves so they will be accepted into college
+
+Teacher Salaries % of Salary Budget:  
+This feature may be confounded by other factors. For example a school with less overall funding likely has to devote more salary to maintenance workers if they are unable to receive funding for newer facilities.
+We do not  recommend making teacher salaries  a higher proportion in budgeting plans as this indicator is likely confounded by other financial factors.
 
 
 ## Next Steps
 
 Perform feature selection steps to improve overfit of the modeling.
-Investigate adding new features. Now that we have a better handle on which types of features are important we should investigate adding new features from our reporting sources and also engineering new features with the data we already have on hand. Engineering features to make them proportional to the overall population of the graduating class could make them stronger and more informative. 
-For example, % of students participating in ACT/SAT per cohort would be a much better metric than the total number.
+
+Investigate adding new features. Now that we have a better handle on which types of features are important we should investigate adding new features from our reporting sources and also engineering new features with the data we already have on hand.
+
+Engineering more features to make them proportional to the overall population of the graduating class could make them stronger and more informative. 
+
 Investigate which types of schools did not report graduation rates. We need to know if we are missing any important type of data for unreported graduation rates. Is the type of schools not reporting graduation rates similar to those that do report?
 
 
